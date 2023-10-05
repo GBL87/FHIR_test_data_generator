@@ -1,0 +1,6 @@
+FSHOnly: true
+fhirVersion: 4.0.1
+canonical: http://example.org/testDataGen
+
+parameters:
+  path-resource: ../generated_fsh_files
